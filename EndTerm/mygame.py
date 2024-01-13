@@ -52,6 +52,8 @@ def main():
     star_add_increment = 2000
     star_count = 0
 
+    iubfi = 0
+    
     stars = []
     hit = False
 
